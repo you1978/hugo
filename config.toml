@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Malaysia Life Blog"
-theme = "ananke"
+baseURL = "https://www.quarrel.work/"
+languageCode = "ja-jp"
+title = "メルカリの日々"
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+	tag = "tags"
+	archive = "archives"

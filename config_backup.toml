@@ -1,0 +1,4 @@
+baseURL = "https://www.quarrel.work/"
+languageCode = "ja-jp"
+title = "Malaysia Life Blog"
+theme = "beautifulhugo"
